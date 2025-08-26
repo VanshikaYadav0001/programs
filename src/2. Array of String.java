@@ -10,7 +10,7 @@ class Main {
         {String Reverse="";
         for(int i=me.length()-1;i>=0;i--){
             Reverse= Reverse+me.charAt(i);
-            
+        
         }
         
         if(Reverse.equals(me)){
